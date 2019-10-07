@@ -1,17 +1,27 @@
 # portfolio
 Things I did
 
-## 2018 - 2019
-- https://bajet.app
-- https://badpirates.com
+## 2018 - 2019 (solo)
+- https://bajet.app (https://trello.com/b/g4KsEGTK/bajet-app)
+- http://badpirates.com (https://trello.com/b/8aeV4DXA/bad-pirates)
+- https://github.com/code51/dialoguesmith
+- https://rosengate.itch.io/13ft-deeper
 
 ## Jan 2014 - Nov 2017
-- https://github.com/rosengate/exedra
-- https://github.com/offworks/overnight
-- https://www.celcom1cbc.com/
+#### Digital Gaia SnS
+- https://www.celcom1cbc.com
+
+#### Future Commerce Sdn Bhd
 - https://avana.asia
 
-## Before 2014
+#### Others (solo)
+- https://github.com/rosengate/exedra
+- https://github.com/offworks/overnight
+- https://github.com/offworks
+
+## Before 2014 (KIST Technologies)
+Mostly are web/system development for company's subsidiaries.
+
 ![155342_216037178529192_357302879_n](https://user-images.githubusercontent.com/5824953/66332500-7e37cc00-e967-11e9-8599-d6ffbd2ffdf3.jpg)
 ![384809_216037205195856_1277318728_n](https://user-images.githubusercontent.com/5824953/66332547-94458c80-e967-11e9-875b-d94d846065f0.jpg)
 ![474135_308763802589862_248272001_o](https://user-images.githubusercontent.com/5824953/66332552-97407d00-e967-11e9-8113-c39f4634097c.jpg)
