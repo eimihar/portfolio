@@ -19,7 +19,7 @@ Things I did
 - https://github.com/offworks/overnight
 - https://github.com/offworks
 
-## Before 2014 (KIST Technologies)
+## Before 2014 (KIST Technology)
 Mostly are web/system development for company's subsidiaries.
 
 ![155342_216037178529192_357302879_n](https://user-images.githubusercontent.com/5824953/66332500-7e37cc00-e967-11e9-8599-d6ffbd2ffdf3.jpg)
